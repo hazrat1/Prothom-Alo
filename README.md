@@ -1,4 +1,5 @@
 # Prothom Alo
+👉 **[Download Today's edition](https://hazrat1.github.io/news-feeds/)**
 
 An automated archiving system that fetches daily news articles using Prothom Alo RSS feed, converts them into high-quality, Kindle-optimized EPUB books, and organizes them within this repository for easy access and personal reading.
 
